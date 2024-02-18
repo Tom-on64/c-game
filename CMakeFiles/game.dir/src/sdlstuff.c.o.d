@@ -1,5 +1,5 @@
 CMakeFiles/game.dir/src/sdlstuff.c.o: \
-  /Volumes/T7/coding/C-game/src/sdlstuff.c \
+  /Volumes/T7/github/C_Game/src/sdlstuff.c \
   /Library/Frameworks/SDL2.framework/Headers/SDL.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL_main.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL_stdinc.h \
@@ -260,4 +260,4 @@ CMakeFiles/game.dir/src/sdlstuff.c.o: \
   /Library/Frameworks/SDL2.framework/Headers/SDL_version.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL_locale.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL_misc.h \
-  /Volumes/T7/coding/C-game/include/sdlstuff.h
+  /Volumes/T7/github/C_Game/include/sdlstuff.h

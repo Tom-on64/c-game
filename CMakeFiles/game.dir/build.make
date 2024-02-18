@@ -53,10 +53,10 @@ RM = /usr/local/Cellar/cmake/3.28.1/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Volumes/T7/coding/C-game
+CMAKE_SOURCE_DIR = /Volumes/T7/github/C_Game
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Volumes/T7/coding/C-game
+CMAKE_BINARY_DIR = /Volumes/T7/github/C_Game
 
 # Include any dependencies generated for this target.
 include CMakeFiles/game.dir/depend.make
@@ -72,58 +72,58 @@ include CMakeFiles/game.dir/flags.make
 CMakeFiles/game.dir/src/draw.c.o: CMakeFiles/game.dir/flags.make
 CMakeFiles/game.dir/src/draw.c.o: src/draw.c
 CMakeFiles/game.dir/src/draw.c.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/T7/coding/C-game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/game.dir/src/draw.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/game.dir/src/draw.c.o -MF CMakeFiles/game.dir/src/draw.c.o.d -o CMakeFiles/game.dir/src/draw.c.o -c /Volumes/T7/coding/C-game/src/draw.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/T7/github/C_Game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/game.dir/src/draw.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/game.dir/src/draw.c.o -MF CMakeFiles/game.dir/src/draw.c.o.d -o CMakeFiles/game.dir/src/draw.c.o -c /Volumes/T7/github/C_Game/src/draw.c
 
 CMakeFiles/game.dir/src/draw.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/game.dir/src/draw.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/T7/coding/C-game/src/draw.c > CMakeFiles/game.dir/src/draw.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/T7/github/C_Game/src/draw.c > CMakeFiles/game.dir/src/draw.c.i
 
 CMakeFiles/game.dir/src/draw.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/game.dir/src/draw.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/T7/coding/C-game/src/draw.c -o CMakeFiles/game.dir/src/draw.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/T7/github/C_Game/src/draw.c -o CMakeFiles/game.dir/src/draw.c.s
 
 CMakeFiles/game.dir/src/game.c.o: CMakeFiles/game.dir/flags.make
 CMakeFiles/game.dir/src/game.c.o: src/game.c
 CMakeFiles/game.dir/src/game.c.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/T7/coding/C-game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/game.dir/src/game.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/game.dir/src/game.c.o -MF CMakeFiles/game.dir/src/game.c.o.d -o CMakeFiles/game.dir/src/game.c.o -c /Volumes/T7/coding/C-game/src/game.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/T7/github/C_Game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/game.dir/src/game.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/game.dir/src/game.c.o -MF CMakeFiles/game.dir/src/game.c.o.d -o CMakeFiles/game.dir/src/game.c.o -c /Volumes/T7/github/C_Game/src/game.c
 
 CMakeFiles/game.dir/src/game.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/game.dir/src/game.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/T7/coding/C-game/src/game.c > CMakeFiles/game.dir/src/game.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/T7/github/C_Game/src/game.c > CMakeFiles/game.dir/src/game.c.i
 
 CMakeFiles/game.dir/src/game.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/game.dir/src/game.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/T7/coding/C-game/src/game.c -o CMakeFiles/game.dir/src/game.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/T7/github/C_Game/src/game.c -o CMakeFiles/game.dir/src/game.c.s
 
 CMakeFiles/game.dir/src/main.c.o: CMakeFiles/game.dir/flags.make
 CMakeFiles/game.dir/src/main.c.o: src/main.c
 CMakeFiles/game.dir/src/main.c.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/T7/coding/C-game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/game.dir/src/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/game.dir/src/main.c.o -MF CMakeFiles/game.dir/src/main.c.o.d -o CMakeFiles/game.dir/src/main.c.o -c /Volumes/T7/coding/C-game/src/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/T7/github/C_Game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/game.dir/src/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/game.dir/src/main.c.o -MF CMakeFiles/game.dir/src/main.c.o.d -o CMakeFiles/game.dir/src/main.c.o -c /Volumes/T7/github/C_Game/src/main.c
 
 CMakeFiles/game.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/game.dir/src/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/T7/coding/C-game/src/main.c > CMakeFiles/game.dir/src/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/T7/github/C_Game/src/main.c > CMakeFiles/game.dir/src/main.c.i
 
 CMakeFiles/game.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/game.dir/src/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/T7/coding/C-game/src/main.c -o CMakeFiles/game.dir/src/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/T7/github/C_Game/src/main.c -o CMakeFiles/game.dir/src/main.c.s
 
 CMakeFiles/game.dir/src/sdlstuff.c.o: CMakeFiles/game.dir/flags.make
 CMakeFiles/game.dir/src/sdlstuff.c.o: src/sdlstuff.c
 CMakeFiles/game.dir/src/sdlstuff.c.o: CMakeFiles/game.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/T7/coding/C-game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/game.dir/src/sdlstuff.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/game.dir/src/sdlstuff.c.o -MF CMakeFiles/game.dir/src/sdlstuff.c.o.d -o CMakeFiles/game.dir/src/sdlstuff.c.o -c /Volumes/T7/coding/C-game/src/sdlstuff.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Volumes/T7/github/C_Game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/game.dir/src/sdlstuff.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/game.dir/src/sdlstuff.c.o -MF CMakeFiles/game.dir/src/sdlstuff.c.o.d -o CMakeFiles/game.dir/src/sdlstuff.c.o -c /Volumes/T7/github/C_Game/src/sdlstuff.c
 
 CMakeFiles/game.dir/src/sdlstuff.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/game.dir/src/sdlstuff.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/T7/coding/C-game/src/sdlstuff.c > CMakeFiles/game.dir/src/sdlstuff.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/T7/github/C_Game/src/sdlstuff.c > CMakeFiles/game.dir/src/sdlstuff.c.i
 
 CMakeFiles/game.dir/src/sdlstuff.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/game.dir/src/sdlstuff.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/T7/coding/C-game/src/sdlstuff.c -o CMakeFiles/game.dir/src/sdlstuff.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/T7/github/C_Game/src/sdlstuff.c -o CMakeFiles/game.dir/src/sdlstuff.c.s
 
 # Object files for target game
 game_OBJECTS = \
@@ -142,7 +142,7 @@ game: CMakeFiles/game.dir/src/sdlstuff.c.o
 game: CMakeFiles/game.dir/build.make
 game: /Library/Frameworks/SDL2.framework/Versions/A/SDL2
 game: CMakeFiles/game.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Volumes/T7/coding/C-game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable game"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Volumes/T7/github/C_Game/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable game"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/game.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -154,6 +154,6 @@ CMakeFiles/game.dir/clean:
 .PHONY : CMakeFiles/game.dir/clean
 
 CMakeFiles/game.dir/depend:
-	cd /Volumes/T7/coding/C-game && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/T7/coding/C-game /Volumes/T7/coding/C-game /Volumes/T7/coding/C-game /Volumes/T7/coding/C-game /Volumes/T7/coding/C-game/CMakeFiles/game.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Volumes/T7/github/C_Game && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/T7/github/C_Game /Volumes/T7/github/C_Game /Volumes/T7/github/C_Game /Volumes/T7/github/C_Game /Volumes/T7/github/C_Game/CMakeFiles/game.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/game.dir/depend
 

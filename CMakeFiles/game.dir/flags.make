@@ -4,7 +4,7 @@
 # compile C with /Library/Developer/CommandLineTools/usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/Volumes/T7/coding/C-game/include -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks
+C_INCLUDES = -I/Volumes/T7/github/C_Game/include -isystem /Library/Frameworks/SDL2.framework/Headers -iframework /Library/Frameworks
 
 C_FLAGS =  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7
 

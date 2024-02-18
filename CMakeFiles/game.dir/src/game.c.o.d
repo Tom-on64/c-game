@@ -1,4 +1,4 @@
-CMakeFiles/game.dir/src/game.c.o: /Volumes/T7/coding/C-game/src/game.c \
+CMakeFiles/game.dir/src/game.c.o: /Volumes/T7/github/C_Game/src/game.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/cdefs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_symbol_aliasing.h \
@@ -6,8 +6,8 @@ CMakeFiles/game.dir/src/game.c.o: /Volumes/T7/coding/C-game/src/game.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/Availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/AvailabilityVersions.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/AvailabilityInternal.h \
-  /Volumes/T7/coding/C-game/include/game.h \
-  /Volumes/T7/coding/C-game/include/draw.h \
+  /Volumes/T7/github/C_Game/include/game.h \
+  /Volumes/T7/github/C_Game/include/draw.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL_main.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL_stdinc.h \
@@ -261,4 +261,4 @@ CMakeFiles/game.dir/src/game.c.o: /Volumes/T7/coding/C-game/src/game.c \
   /Library/Frameworks/SDL2.framework/Headers/SDL_version.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL_locale.h \
   /Library/Frameworks/SDL2.framework/Headers/SDL_misc.h \
-  /Volumes/T7/coding/C-game/include/sdlstuff.h
+  /Volumes/T7/github/C_Game/include/sdlstuff.h

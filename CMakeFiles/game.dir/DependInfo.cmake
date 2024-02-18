@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Volumes/T7/coding/C-game/src/draw.c" "CMakeFiles/game.dir/src/draw.c.o" "gcc" "CMakeFiles/game.dir/src/draw.c.o.d"
-  "/Volumes/T7/coding/C-game/src/game.c" "CMakeFiles/game.dir/src/game.c.o" "gcc" "CMakeFiles/game.dir/src/game.c.o.d"
-  "/Volumes/T7/coding/C-game/src/main.c" "CMakeFiles/game.dir/src/main.c.o" "gcc" "CMakeFiles/game.dir/src/main.c.o.d"
-  "/Volumes/T7/coding/C-game/src/sdlstuff.c" "CMakeFiles/game.dir/src/sdlstuff.c.o" "gcc" "CMakeFiles/game.dir/src/sdlstuff.c.o.d"
+  "/Volumes/T7/github/C_Game/src/draw.c" "CMakeFiles/game.dir/src/draw.c.o" "gcc" "CMakeFiles/game.dir/src/draw.c.o.d"
+  "/Volumes/T7/github/C_Game/src/game.c" "CMakeFiles/game.dir/src/game.c.o" "gcc" "CMakeFiles/game.dir/src/game.c.o.d"
+  "/Volumes/T7/github/C_Game/src/main.c" "CMakeFiles/game.dir/src/main.c.o" "gcc" "CMakeFiles/game.dir/src/main.c.o.d"
+  "/Volumes/T7/github/C_Game/src/sdlstuff.c" "CMakeFiles/game.dir/src/sdlstuff.c.o" "gcc" "CMakeFiles/game.dir/src/sdlstuff.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
