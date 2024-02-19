@@ -15,4 +15,6 @@ SDL_Renderer* renderer;
 int initSdl();
 void quitSdl();
 
+int isKeyDown(SDL_Keycode keycode);
+
 #endif

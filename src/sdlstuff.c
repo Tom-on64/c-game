@@ -1,5 +1,6 @@
 #include <SDL2/SDL.h>
 #include "sdlstuff.h"
+#include "types.h"
 
 int initSdl() {
     if (SDL_Init(SDL_INIT_VIDEO) != 0) {
@@ -35,4 +36,9 @@ void quitSdl() {
     SDL_DestroyRenderer(renderer);
     SDL_DestroyWindow(window);
     SDL_Quit();
+}
+
+int isKeyDown(SDL_Keycode keycode) {
+    const u8* state = SDL_GetKeyboardState(NULL);
+    return state[SDL_GetScancodeFromKey(keycode)] ? true : false;
 }
