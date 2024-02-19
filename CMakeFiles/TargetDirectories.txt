@@ -1,3 +1,0 @@
-/Volumes/T7/github/C_Game/CMakeFiles/game.dir
-/Volumes/T7/github/C_Game/CMakeFiles/edit_cache.dir
-/Volumes/T7/github/C_Game/CMakeFiles/rebuild_cache.dir
